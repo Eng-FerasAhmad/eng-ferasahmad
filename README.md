@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Feras!
-Frontend & UX Designer this is my TechStack!
+Frontend Enginner & UX Designer this is my TechStack!
+
+![](https://komarev.com/ghpvc/?username=eng-ferasahmad)
 
 ### Frontend Frameworks and Libraries
 <p align="center">
@@ -14,6 +16,11 @@ Frontend & UX Designer this is my TechStack!
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,sentry,vscode,idea,docker" />
   </a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-ferasahmad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://myreadme.vercel.app/api/embed/eng-ferasahmad?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 <!--
 **Eng-FerasAhmad/eng-ferasahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
