@@ -1,19 +1,26 @@
 ### Hi there 👋, I'm Feras!
-Frontend Enginner & UX Designer this is my TechStack!
+Frontend Engineer & UX Designer this is my TechStack!
 
 ![](https://komarev.com/ghpvc/?username=eng-ferasahmad)
 
 ### Frontend Frameworks and Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,redux,sass,ts,js,webpack,vite,tailwind,rollupjs,materialui,jest,html,css,figma,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,redux,ts,js,webpack,vite,rollupjs,jest,html,babel,azure,nodejs" />
   </a>
 </p>
 
 ### Configuration management
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,sentry,vscode,idea,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,sentry,vscode,idea,docker,jenkins" />
+  </a>
+</p>
+
+### Styling & design
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,css,figma,bootstrap,styledcomponents,materialui,tailwind" />
   </a>
 </p>
 
