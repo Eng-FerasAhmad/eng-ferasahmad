@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Feras!
-Frontend Engineer & UX Designer this is my TechStack!
+Senior Frontend Engineer | React & Redux Trainer this is my TechStack!
 
 ![](https://komarev.com/ghpvc/?username=eng-ferasahmad)
 
